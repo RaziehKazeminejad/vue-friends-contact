@@ -23,15 +23,15 @@ export default {
     return {
       friends: [
         {
-          id: "Ali",
-          name: "Ali Kamali",
-          email: "ali@gmail.com",
+          id: "Mary",
+          name: "Mary Smith",
+          email: "Mary@gmail.com",
           phone: "0912 345 6789",
           isFavorite: true,
         },
         {
-          id: "Sara",
-          name: "Sara Eftekhar",
+          id: "Sarah",
+          name: "Sarah Doe",
           email: "sara@gmail.com",
           phone: "0913 345 6789",
           isFavorite: false,
